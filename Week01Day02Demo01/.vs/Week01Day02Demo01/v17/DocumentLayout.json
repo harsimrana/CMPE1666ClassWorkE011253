@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{1E63A8ED-FCAF-4A78-BB31-C864EC15D5E1}|Week01Day02Demo01\\Week01Day02Demo01.csproj|solutionrelative:week01day02demo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E63A8ED-FCAF-4A78-BB31-C864EC15D5E1}|Week01Day02Demo01\\Week01Day02Demo01.csproj|c:\\users\\harsimrana\\music\\1666\\cmpe1666classworke011253\\week01day02demo01\\week01day02demo01\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{1E63A8ED-FCAF-4A78-BB31-C864EC15D5E1}|Week01Day02Demo01\\Week01Day02Demo01.csproj|C:\\Users\\harsimrana\\Music\\1666\\CMPE1666ClassWorkE011253\\Week01Day02Demo01\\week01day02demo01\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{1E63A8ED-FCAF-4A78-BB31-C864EC15D5E1}|Week01Day02Demo01\\Week01Day02Demo01.csproj|solutionrelative:week01day02demo01\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -34,8 +34,7 @@
               "RelativeToolTip": "Week01Day02Demo01\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-06-10T01:13:28.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T01:13:28.273Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "Week01Day02Demo01\\Program.cs",
               "ToolTip": "C:\\Users\\harsimrana\\Music\\1666\\CMPE1666ClassWorkE011253\\Week01Day02Demo01\\Week01Day02Demo01\\Program.cs",
               "RelativeToolTip": "Week01Day02Demo01\\Program.cs",
-              "ViewState": "AgIAAH4AAAAAAAAAAADwv4IAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwIIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-10T01:12:56.909Z",
               "EditorCaption": ""
