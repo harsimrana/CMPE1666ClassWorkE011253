@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week01Day04Demo01TimerStopwatch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D81AE3-8EF3-4B9E-A828-8DF6757C9C9A}|Week01Day04Demo01TimerStopwatch\\Week01Day04Demo01TimerStopwatch.csproj|c:\\users\\nait_work\\music\\1253\\cmpe1666classworke011253\\week01day04demo01timerstopwatch\\week01day04demo01timerstopwatch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2D81AE3-8EF3-4B9E-A828-8DF6757C9C9A}|Week01Day04Demo01TimerStopwatch\\Week01Day04Demo01TimerStopwatch.csproj|solutionrelative:week01day04demo01timerstopwatch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D81AE3-8EF3-4B9E-A828-8DF6757C9C9A}|Week01Day04Demo01TimerStopwatch\\Week01Day04Demo01TimerStopwatch.csproj|c:\\users\\nait_work\\music\\1253\\cmpe1666classworke011253\\week01day04demo01timerstopwatch\\week01day04demo01timerstopwatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D81AE3-8EF3-4B9E-A828-8DF6757C9C9A}|Week01Day04Demo01TimerStopwatch\\Week01Day04Demo01TimerStopwatch.csproj|solutionrelative:week01day04demo01timerstopwatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D81AE3-8EF3-4B9E-A828-8DF6757C9C9A}|Week01Day04Demo01TimerStopwatch\\Week01Day04Demo01TimerStopwatch.csproj|c:\\users\\nait_work\\music\\1253\\cmpe1666classworke011253\\week01day04demo01timerstopwatch\\week01day04demo01timerstopwatch\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{B2D81AE3-8EF3-4B9E-A828-8DF6757C9C9A}|Week01Day04Demo01TimerStopwatch\\Week01Day04Demo01TimerStopwatch.csproj|solutionrelative:week01day04demo01timerstopwatch\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D81AE3-8EF3-4B9E-A828-8DF6757C9C9A}|Week01Day04Demo01TimerStopwatch\\Week01Day04Demo01TimerStopwatch.csproj|c:\\users\\nait_work\\music\\1253\\cmpe1666classworke011253\\week01day04demo01timerstopwatch\\week01day04demo01timerstopwatch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D81AE3-8EF3-4B9E-A828-8DF6757C9C9A}|Week01Day04Demo01TimerStopwatch\\Week01Day04Demo01TimerStopwatch.csproj|solutionrelative:week01day04demo01timerstopwatch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week01Day04Demo01TimerStopwatch\\Week01Day04Demo01TimerStopwatch\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Week01Day04Demo01TimerStopwatch\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week01Day04Demo01TimerStopwatch\\Week01Day04Demo01TimerStopwatch\\Properties\\Settings.settings",
+              "RelativeToolTip": "Week01Day04Demo01TimerStopwatch\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2026-06-12T02:02:08.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week01Day04Demo01TimerStopwatch\\Week01Day04Demo01TimerStopwatch\\Form1.cs",
+              "RelativeDocumentMoniker": "Week01Day04Demo01TimerStopwatch\\Form1.cs",
+              "ToolTip": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week01Day04Demo01TimerStopwatch\\Week01Day04Demo01TimerStopwatch\\Form1.cs",
+              "RelativeToolTip": "Week01Day04Demo01TimerStopwatch\\Form1.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAhwFQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T00:32:19.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week01Day04Demo01TimerStopwatch\\Week01Day04Demo01TimerStopwatch\\Program.cs",
+              "RelativeDocumentMoniker": "Week01Day04Demo01TimerStopwatch\\Program.cs",
+              "ToolTip": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week01Day04Demo01TimerStopwatch\\Week01Day04Demo01TimerStopwatch\\Program.cs",
+              "RelativeToolTip": "Week01Day04Demo01TimerStopwatch\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T00:21:33.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week01Day04Demo01TimerStopwatch\\Week01Day04Demo01TimerStopwatch\\Form1.cs",
+              "RelativeDocumentMoniker": "Week01Day04Demo01TimerStopwatch\\Form1.cs",
+              "ToolTip": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week01Day04Demo01TimerStopwatch\\Week01Day04Demo01TimerStopwatch\\Form1.cs [Design]",
+              "RelativeToolTip": "Week01Day04Demo01TimerStopwatch\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T00:20:30.801Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
