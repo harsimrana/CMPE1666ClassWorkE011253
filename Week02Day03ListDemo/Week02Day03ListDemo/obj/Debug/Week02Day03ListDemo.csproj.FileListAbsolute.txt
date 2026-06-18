@@ -1,0 +1,8 @@
+C:\Users\harsimrana\Music\1666\CMPE1666ClassWorkE011253\Week02Day03ListDemo\Week02Day03ListDemo\bin\Debug\Week02Day03ListDemo.exe.config
+C:\Users\harsimrana\Music\1666\CMPE1666ClassWorkE011253\Week02Day03ListDemo\Week02Day03ListDemo\bin\Debug\Week02Day03ListDemo.exe
+C:\Users\harsimrana\Music\1666\CMPE1666ClassWorkE011253\Week02Day03ListDemo\Week02Day03ListDemo\bin\Debug\Week02Day03ListDemo.pdb
+C:\Users\harsimrana\Music\1666\CMPE1666ClassWorkE011253\Week02Day03ListDemo\Week02Day03ListDemo\obj\Debug\Week02Day03ListDemo.csproj.AssemblyReference.cache
+C:\Users\harsimrana\Music\1666\CMPE1666ClassWorkE011253\Week02Day03ListDemo\Week02Day03ListDemo\obj\Debug\Week02Day03ListDemo.csproj.CoreCompileInputs.cache
+C:\Users\harsimrana\Music\1666\CMPE1666ClassWorkE011253\Week02Day03ListDemo\Week02Day03ListDemo\obj\Debug\Week02Day03ListDemo.exe
+C:\Users\harsimrana\Music\1666\CMPE1666ClassWorkE011253\Week02Day03ListDemo\Week02Day03ListDemo\obj\Debug\Week02Day03ListDemo.pdb
+C:\Users\harsimrana\Music\1666\CMPE1666ClassWorkE011253\Week02Day03ListDemo\Week02Day03ListDemo\obj\Debug\Week02Day03ListDemo.exe.config
