@@ -1,0 +1,8 @@
+C:\Users\harsimrana\Music\1666\CMPE1666ClassWorkE011253\week03day03filehanding\week03day03filehanding\bin\Debug\week03day03filehanding.exe.config
+C:\Users\harsimrana\Music\1666\CMPE1666ClassWorkE011253\week03day03filehanding\week03day03filehanding\bin\Debug\week03day03filehanding.exe
+C:\Users\harsimrana\Music\1666\CMPE1666ClassWorkE011253\week03day03filehanding\week03day03filehanding\bin\Debug\week03day03filehanding.pdb
+C:\Users\harsimrana\Music\1666\CMPE1666ClassWorkE011253\week03day03filehanding\week03day03filehanding\obj\Debug\week03day03filehanding.csproj.AssemblyReference.cache
+C:\Users\harsimrana\Music\1666\CMPE1666ClassWorkE011253\week03day03filehanding\week03day03filehanding\obj\Debug\week03day03filehanding.csproj.CoreCompileInputs.cache
+C:\Users\harsimrana\Music\1666\CMPE1666ClassWorkE011253\week03day03filehanding\week03day03filehanding\obj\Debug\week03day03filehanding.exe
+C:\Users\harsimrana\Music\1666\CMPE1666ClassWorkE011253\week03day03filehanding\week03day03filehanding\obj\Debug\week03day03filehanding.pdb
+C:\Users\harsimrana\Music\1666\CMPE1666ClassWorkE011253\week03day03filehanding\week03day03filehanding\obj\Debug\week03day03filehanding.exe.config
