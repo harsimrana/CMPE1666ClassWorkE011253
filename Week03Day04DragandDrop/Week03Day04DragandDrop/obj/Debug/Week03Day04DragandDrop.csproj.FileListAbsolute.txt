@@ -1,0 +1,10 @@
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week03Day04DragandDrop\Week03Day04DragandDrop\bin\Debug\Week03Day04DragandDrop.exe.config
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week03Day04DragandDrop\Week03Day04DragandDrop\bin\Debug\Week03Day04DragandDrop.exe
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week03Day04DragandDrop\Week03Day04DragandDrop\bin\Debug\Week03Day04DragandDrop.pdb
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week03Day04DragandDrop\Week03Day04DragandDrop\obj\Debug\Week03Day04DragandDrop.csproj.AssemblyReference.cache
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week03Day04DragandDrop\Week03Day04DragandDrop\obj\Debug\Week03Day04DragandDrop.Form1.resources
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week03Day04DragandDrop\Week03Day04DragandDrop\obj\Debug\Week03Day04DragandDrop.Properties.Resources.resources
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week03Day04DragandDrop\Week03Day04DragandDrop\obj\Debug\Week03Day04DragandDrop.csproj.GenerateResource.cache
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week03Day04DragandDrop\Week03Day04DragandDrop\obj\Debug\Week03Day04DragandDrop.csproj.CoreCompileInputs.cache
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week03Day04DragandDrop\Week03Day04DragandDrop\obj\Debug\Week03Day04DragandDrop.exe
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week03Day04DragandDrop\Week03Day04DragandDrop\obj\Debug\Week03Day04DragandDrop.pdb
