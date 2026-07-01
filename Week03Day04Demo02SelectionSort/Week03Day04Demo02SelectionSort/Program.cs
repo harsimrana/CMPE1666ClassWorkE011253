@@ -17,7 +17,12 @@ namespace Week03Day04Demo02SelectionSort
             }
 
             //Sort the list using Selection Sort
-            SelectionSort(numbers);
+            // UNCOMMENT THE FOLLOWING LINE TO TEST IT WITH SELECTION SORT
+            //SelectionSort(numbers);
+
+            // sort using Insertion Sort
+            InsertionSort(numbers);  // n2
+
 
             // Print after sorting
             Console.WriteLine("List after sorting");
@@ -63,5 +68,28 @@ namespace Week03Day04Demo02SelectionSort
 
         }
 
-    }
-}
+        /* Method to perfomr Insertion  sort
+         * Inputs: An array to sort
+         * Output: Nothing
+         */
+         public static void InsertionSort(int[] arr)
+         {
+            for (int i = 1; i < arr.Length; ++i)
+            {
+                //Key: Element to be inserted
+                int temp = arr[i];
+                int j = i - 1;
+
+                //Move elements greater than key to one position ahead
+                while (j >= 0 && temp < arr[j])
+                {
+                    arr[j + 1] = arr[j];
+                    j--;
+                }
+
+                // Insert the key at the correct position
+                arr[j + 1] = temp;
+            }// end of outer loop
+         }// end of function insertion
+    }// end of class
+}// end of namespace
