@@ -1,4 +1,5 @@
-﻿using System.Reflection.Metadata.Ecma335;
+﻿using System.ComponentModel.Design;
+using System.Reflection.Metadata.Ecma335;
 
 namespace Week04Day04Recursion
 {
@@ -51,10 +52,92 @@ namespace Week04Day04Recursion
 
             int indexOfItem = -1; // -1 means not in the list
 
-            indexOfItem = LinearSearchRecursive(numbers, itemSearch, 0);
+            indexOfItem = LinearSearchRecursive(numbers, itemSearch, 37);
 
             Console.WriteLine(indexOfItem);
+
+            Console.WriteLine("Binary Search Iterative Solution");
+
+            indexOfItem = BinarySearchIterative(numbers, 14);
+
+            string message = indexOfItem == -1 ? "Item is not in the list" : " Item is found at index " + indexOfItem;
+
+            Console.WriteLine(message);
+
+            Console.WriteLine("Binary Search Recursive Solution");
+
+            indexOfItem = BinarySearchRecursive(numbers, 140, 0, 5);
+
+            message = indexOfItem == -1 ? "Item is not in the list" : " Item is found at index " + indexOfItem;
+
+            Console.WriteLine(message);
         }
+
+        public static int BinarySearchRecursive(int[] collection, int target, int low, int upper)
+        {
+            // Base Condition I: otherwise it will become infinite loop
+            if (low > upper)
+                return -1; // Means item not found
+
+            int mid = (low + upper) / 2;
+
+            // Base condition II
+            if (target == collection[mid])
+                return mid;   // Found the match so return the index of that element
+            else if (target < collection[mid])
+            {
+                // Need to search in the first half of the list
+                // update upper
+                upper = mid - 1;
+                return BinarySearchRecursive(collection, target, low, upper);
+            }
+            else
+            {
+                // Need to search in the upper half of the list
+                //update low 
+                low = mid + 1;
+                return BinarySearchRecursive(collection, target, low, upper);
+            }
+
+
+        }
+        public static int BinarySearchIterative(int[] collection, int target)
+        {
+            int low =0, upper = collection.Length - 1, mid=0;
+
+            /*Repeat step 1 to 3 till  low <= upper
+                 *1. Find the new mid by adding (low + Upper) /2
+                 * 
+                 *2. if element at Mid == target: return index
+                 * 
+                 *3.  if target < element @mid
+                 *3a.  upper := mid- 1
+                 * else
+                 *3b  low := mid +1 
+             *  
+             * If low > upper return -1
+             * */
+            while (low <= upper)                //Repeat step 1 to 3 till  low <= upper
+            {
+                mid = (low + upper) / 2;        // Step 1
+
+                if (collection[mid] == target)  // Step 2
+                    return mid;
+
+                if (target < collection[mid])  // Step 3
+                {
+                    upper = mid - 1;           // Step 3a
+                }
+                else
+                {
+                    low = mid + 1;             // Step 3b
+                }
+            }
+
+            return -1; // Item is not in the list
+
+        }
+
 
         // Write a method LinearSearchRecursive to find an item in the list
         // if item is found return the index of that otherwise -1
