@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harsimrana\\Music\\1666\\CMPE1666ClassWorkE011253\\QuickSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2734819F-B2F4-432E-8208-C199DAF3383F}|QuickSort\\QuickSort.csproj|c:\\users\\harsimrana\\music\\1666\\cmpe1666classworke011253\\quicksort\\quicksort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2734819F-B2F4-432E-8208-C199DAF3383F}|QuickSort\\QuickSort.csproj|solutionrelative:quicksort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harsimrana\\Music\\1666\\CMPE1666ClassWorkE011253\\QuickSort\\QuickSort\\Program.cs",
+              "RelativeDocumentMoniker": "QuickSort\\Program.cs",
+              "ToolTip": "C:\\Users\\harsimrana\\Music\\1666\\CMPE1666ClassWorkE011253\\QuickSort\\QuickSort\\Program.cs",
+              "RelativeToolTip": "QuickSort\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwDgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T01:02:12.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
