@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JSWgndMD+4U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week07Day04Demo03MultiThreading\\Week07Day04Demo03MultiThreading\\Week07Day04Demo03MultiThreading.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NAIT_WORK\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\NAIT_WORK\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\NAIT_WORK\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\8.0.28\\microsoft.netcore.app.host.win-arm64.8.0.28.nupkg.sha512",
+    "C:\\Users\\NAIT_WORK\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
