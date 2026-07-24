@@ -1,0 +1,15 @@
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week07Day04DelegatesDemo\Week07Day04DelegatesDemo\bin\Debug\net8.0\Week07Day04DelegatesDemo.exe
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week07Day04DelegatesDemo\Week07Day04DelegatesDemo\bin\Debug\net8.0\Week07Day04DelegatesDemo.deps.json
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week07Day04DelegatesDemo\Week07Day04DelegatesDemo\bin\Debug\net8.0\Week07Day04DelegatesDemo.runtimeconfig.json
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week07Day04DelegatesDemo\Week07Day04DelegatesDemo\bin\Debug\net8.0\Week07Day04DelegatesDemo.dll
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week07Day04DelegatesDemo\Week07Day04DelegatesDemo\bin\Debug\net8.0\Week07Day04DelegatesDemo.pdb
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week07Day04DelegatesDemo\Week07Day04DelegatesDemo\obj\Debug\net8.0\Week07Day04DelegatesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week07Day04DelegatesDemo\Week07Day04DelegatesDemo\obj\Debug\net8.0\Week07Day04DelegatesDemo.AssemblyInfoInputs.cache
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week07Day04DelegatesDemo\Week07Day04DelegatesDemo\obj\Debug\net8.0\Week07Day04DelegatesDemo.AssemblyInfo.cs
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week07Day04DelegatesDemo\Week07Day04DelegatesDemo\obj\Debug\net8.0\Week07Day04DelegatesDemo.csproj.CoreCompileInputs.cache
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week07Day04DelegatesDemo\Week07Day04DelegatesDemo\obj\Debug\net8.0\Week07Day04DelegatesDemo.sourcelink.json
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week07Day04DelegatesDemo\Week07Day04DelegatesDemo\obj\Debug\net8.0\Week07Day04DelegatesDemo.dll
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week07Day04DelegatesDemo\Week07Day04DelegatesDemo\obj\Debug\net8.0\refint\Week07Day04DelegatesDemo.dll
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week07Day04DelegatesDemo\Week07Day04DelegatesDemo\obj\Debug\net8.0\Week07Day04DelegatesDemo.pdb
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week07Day04DelegatesDemo\Week07Day04DelegatesDemo\obj\Debug\net8.0\Week07Day04DelegatesDemo.genruntimeconfig.cache
+C:\Users\NAIT_WORK\Music\1253\CMPE1666ClassWorkE011253\Week07Day04DelegatesDemo\Week07Day04DelegatesDemo\obj\Debug\net8.0\ref\Week07Day04DelegatesDemo.dll

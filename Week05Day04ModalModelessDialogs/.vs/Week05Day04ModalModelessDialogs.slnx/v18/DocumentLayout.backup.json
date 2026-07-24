@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week05Day04ModalModelessDialogs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68012226-594E-4482-BF29-CECC8C81DE82}|Week05Day04ModalModelessDialogs\\Week05Day04ModalModelessDialogs.csproj|c:\\users\\nait_work\\music\\1253\\cmpe1666classworke011253\\week05day04modalmodelessdialogs\\week05day04modalmodelessdialogs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68012226-594E-4482-BF29-CECC8C81DE82}|Week05Day04ModalModelessDialogs\\Week05Day04ModalModelessDialogs.csproj|solutionrelative:week05day04modalmodelessdialogs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68012226-594E-4482-BF29-CECC8C81DE82}|Week05Day04ModalModelessDialogs\\Week05Day04ModalModelessDialogs.csproj|c:\\users\\nait_work\\music\\1253\\cmpe1666classworke011253\\week05day04modalmodelessdialogs\\week05day04modalmodelessdialogs\\modaldialoguserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68012226-594E-4482-BF29-CECC8C81DE82}|Week05Day04ModalModelessDialogs\\Week05Day04ModalModelessDialogs.csproj|solutionrelative:week05day04modalmodelessdialogs\\modaldialoguserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68012226-594E-4482-BF29-CECC8C81DE82}|Week05Day04ModalModelessDialogs\\Week05Day04ModalModelessDialogs.csproj|c:\\users\\nait_work\\music\\1253\\cmpe1666classworke011253\\week05day04modalmodelessdialogs\\week05day04modalmodelessdialogs\\modaldialoguserform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68012226-594E-4482-BF29-CECC8C81DE82}|Week05Day04ModalModelessDialogs\\Week05Day04ModalModelessDialogs.csproj|solutionrelative:week05day04modalmodelessdialogs\\modaldialoguserform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68012226-594E-4482-BF29-CECC8C81DE82}|Week05Day04ModalModelessDialogs\\Week05Day04ModalModelessDialogs.csproj|c:\\users\\nait_work\\music\\1253\\cmpe1666classworke011253\\week05day04modalmodelessdialogs\\week05day04modalmodelessdialogs\\modaldialoguserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68012226-594E-4482-BF29-CECC8C81DE82}|Week05Day04ModalModelessDialogs\\Week05Day04ModalModelessDialogs.csproj|solutionrelative:week05day04modalmodelessdialogs\\modaldialoguserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68012226-594E-4482-BF29-CECC8C81DE82}|Week05Day04ModalModelessDialogs\\Week05Day04ModalModelessDialogs.csproj|c:\\users\\nait_work\\music\\1253\\cmpe1666classworke011253\\week05day04modalmodelessdialogs\\week05day04modalmodelessdialogs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68012226-594E-4482-BF29-CECC8C81DE82}|Week05Day04ModalModelessDialogs\\Week05Day04ModalModelessDialogs.csproj|solutionrelative:week05day04modalmodelessdialogs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModalDialogUserForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week05Day04ModalModelessDialogs\\Week05Day04ModalModelessDialogs\\ModalDialogUserForm.Designer.cs",
+              "RelativeDocumentMoniker": "Week05Day04ModalModelessDialogs\\ModalDialogUserForm.Designer.cs",
+              "ToolTip": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week05Day04ModalModelessDialogs\\Week05Day04ModalModelessDialogs\\ModalDialogUserForm.Designer.cs",
+              "RelativeToolTip": "Week05Day04ModalModelessDialogs\\ModalDialogUserForm.Designer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T01:31:09.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModalDialogUserForm.cs",
+              "DocumentMoniker": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week05Day04ModalModelessDialogs\\Week05Day04ModalModelessDialogs\\ModalDialogUserForm.cs",
+              "RelativeDocumentMoniker": "Week05Day04ModalModelessDialogs\\ModalDialogUserForm.cs",
+              "ToolTip": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week05Day04ModalModelessDialogs\\Week05Day04ModalModelessDialogs\\ModalDialogUserForm.cs",
+              "RelativeToolTip": "Week05Day04ModalModelessDialogs\\ModalDialogUserForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T01:03:59.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModalDialogUserForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week05Day04ModalModelessDialogs\\Week05Day04ModalModelessDialogs\\ModalDialogUserForm.cs",
+              "RelativeDocumentMoniker": "Week05Day04ModalModelessDialogs\\ModalDialogUserForm.cs",
+              "ToolTip": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week05Day04ModalModelessDialogs\\Week05Day04ModalModelessDialogs\\ModalDialogUserForm.cs [Design]",
+              "RelativeToolTip": "Week05Day04ModalModelessDialogs\\ModalDialogUserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T00:57:28.916Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week05Day04ModalModelessDialogs\\Week05Day04ModalModelessDialogs\\Form1.cs",
+              "RelativeDocumentMoniker": "Week05Day04ModalModelessDialogs\\Form1.cs",
+              "ToolTip": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week05Day04ModalModelessDialogs\\Week05Day04ModalModelessDialogs\\Form1.cs*",
+              "RelativeToolTip": "Week05Day04ModalModelessDialogs\\Form1.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T00:42:36.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week05Day04ModalModelessDialogs\\Week05Day04ModalModelessDialogs\\Form1.cs",
+              "RelativeDocumentMoniker": "Week05Day04ModalModelessDialogs\\Form1.cs",
+              "ToolTip": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week05Day04ModalModelessDialogs\\Week05Day04ModalModelessDialogs\\Form1.cs [Design]*",
+              "RelativeToolTip": "Week05Day04ModalModelessDialogs\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T00:42:00.762Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
