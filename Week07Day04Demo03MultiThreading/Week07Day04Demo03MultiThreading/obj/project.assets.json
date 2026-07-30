@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
     "net8.0": {}
   },
@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\NAIT_WORK\\.nuget\\packages\\": {},
+    "C:\\Users\\harsimrana\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week07Day04Demo03MultiThreading\\Week07Day04Demo03MultiThreading\\Week07Day04Demo03MultiThreading.csproj",
+      "projectUniqueName": "C:\\Users\\harsimrana\\Music\\1666\\CMPE1666ClassWorkE011253\\Week07Day04Demo03MultiThreading\\Week07Day04Demo03MultiThreading\\Week07Day04Demo03MultiThreading.csproj",
       "projectName": "Week07Day04Demo03MultiThreading",
-      "projectPath": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week07Day04Demo03MultiThreading\\Week07Day04Demo03MultiThreading\\Week07Day04Demo03MultiThreading.csproj",
-      "packagesPath": "C:\\Users\\NAIT_WORK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NAIT_WORK\\Music\\1253\\CMPE1666ClassWorkE011253\\Week07Day04Demo03MultiThreading\\Week07Day04Demo03MultiThreading\\obj\\",
+      "projectPath": "C:\\Users\\harsimrana\\Music\\1666\\CMPE1666ClassWorkE011253\\Week07Day04Demo03MultiThreading\\Week07Day04Demo03MultiThreading\\Week07Day04Demo03MultiThreading.csproj",
+      "packagesPath": "C:\\Users\\harsimrana\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\harsimrana\\Music\\1666\\CMPE1666ClassWorkE011253\\Week07Day04Demo03MultiThreading\\Week07Day04Demo03MultiThreading\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\NAIT_WORK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\harsimrana\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -38,7 +38,6 @@
       },
       "frameworks": {
         "net8.0": {
-          "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {}
         }
@@ -53,11 +52,10 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.400"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
-        "framework": "net8.0",
         "targetAlias": "net8.0",
         "imports": [
           "net461",
@@ -70,30 +68,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.28, 8.0.28]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-arm64",
-            "version": "[8.0.28, 8.0.28]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.28, 8.0.28]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[8.0.28, 8.0.28]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400-preview.0.26322.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

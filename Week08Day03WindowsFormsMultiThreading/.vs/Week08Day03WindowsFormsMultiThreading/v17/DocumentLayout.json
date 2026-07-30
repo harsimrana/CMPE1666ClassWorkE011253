@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harsimrana\\Music\\1666\\CMPE1666ClassWorkE011253\\Week08Day03WindowsFormsMultiThreading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9997E93-1E5B-427F-9251-59A442E0B354}|Week08Day03WindowsFormsMultiThreading\\Week08Day03WindowsFormsMultiThreading.csproj|c:\\users\\harsimrana\\music\\1666\\cmpe1666classworke011253\\week08day03windowsformsmultithreading\\week08day03windowsformsmultithreading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9997E93-1E5B-427F-9251-59A442E0B354}|Week08Day03WindowsFormsMultiThreading\\Week08Day03WindowsFormsMultiThreading.csproj|solutionrelative:week08day03windowsformsmultithreading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9997E93-1E5B-427F-9251-59A442E0B354}|Week08Day03WindowsFormsMultiThreading\\Week08Day03WindowsFormsMultiThreading.csproj|c:\\users\\harsimrana\\music\\1666\\cmpe1666classworke011253\\week08day03windowsformsmultithreading\\week08day03windowsformsmultithreading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9997E93-1E5B-427F-9251-59A442E0B354}|Week08Day03WindowsFormsMultiThreading\\Week08Day03WindowsFormsMultiThreading.csproj|solutionrelative:week08day03windowsformsmultithreading\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9997E93-1E5B-427F-9251-59A442E0B354}|Week08Day03WindowsFormsMultiThreading\\Week08Day03WindowsFormsMultiThreading.csproj|c:\\users\\harsimrana\\music\\1666\\cmpe1666classworke011253\\week08day03windowsformsmultithreading\\week08day03windowsformsmultithreading\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9997E93-1E5B-427F-9251-59A442E0B354}|Week08Day03WindowsFormsMultiThreading\\Week08Day03WindowsFormsMultiThreading.csproj|solutionrelative:week08day03windowsformsmultithreading\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\harsimrana\\Music\\1666\\CMPE1666ClassWorkE011253\\Week08Day03WindowsFormsMultiThreading\\Week08Day03WindowsFormsMultiThreading\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Week08Day03WindowsFormsMultiThreading\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\harsimrana\\Music\\1666\\CMPE1666ClassWorkE011253\\Week08Day03WindowsFormsMultiThreading\\Week08Day03WindowsFormsMultiThreading\\Form1.Designer.cs",
+              "RelativeToolTip": "Week08Day03WindowsFormsMultiThreading\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T00:29:18.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\harsimrana\\Music\\1666\\CMPE1666ClassWorkE011253\\Week08Day03WindowsFormsMultiThreading\\Week08Day03WindowsFormsMultiThreading\\Form1.cs",
+              "RelativeDocumentMoniker": "Week08Day03WindowsFormsMultiThreading\\Form1.cs",
+              "ToolTip": "C:\\Users\\harsimrana\\Music\\1666\\CMPE1666ClassWorkE011253\\Week08Day03WindowsFormsMultiThreading\\Week08Day03WindowsFormsMultiThreading\\Form1.cs",
+              "RelativeToolTip": "Week08Day03WindowsFormsMultiThreading\\Form1.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAmwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T00:25:17.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\harsimrana\\Music\\1666\\CMPE1666ClassWorkE011253\\Week08Day03WindowsFormsMultiThreading\\Week08Day03WindowsFormsMultiThreading\\Form1.cs",
+              "RelativeDocumentMoniker": "Week08Day03WindowsFormsMultiThreading\\Form1.cs",
+              "ToolTip": "C:\\Users\\harsimrana\\Music\\1666\\CMPE1666ClassWorkE011253\\Week08Day03WindowsFormsMultiThreading\\Week08Day03WindowsFormsMultiThreading\\Form1.cs [Design]",
+              "RelativeToolTip": "Week08Day03WindowsFormsMultiThreading\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T00:20:11.002Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
